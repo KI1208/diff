@@ -1,6 +1,7 @@
 venv/
 sample1/
 sample2/
+.idea/
 *.csv
 *.pyc
 app_old.py
