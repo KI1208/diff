@@ -1,0 +1,8 @@
+venv/
+sample1/
+sample2/
+*.csv
+*.pyc
+app_old.py
+diff2.py
+*.txt
